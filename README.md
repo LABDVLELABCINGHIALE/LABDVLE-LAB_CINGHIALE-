@@ -20,7 +20,7 @@ Crediamo nell’unione tra artigianato tecnico e intelligenza artificiale: il la
 ---
 
 ## 📡 Collegamenti
-- [YouTube – Il Laboratorio del Cinghiale](https://www.youtube.com/@laboratoriodelcinghiale)  
+- [YouTube – Il Laboratorio del Cinghiale](https://youtube.com/@illaboratoriodelcinghiale?si=2xleUEwfGtou8OM5)  
 - [Instagram – @laboratoriodelcinghiale](https://www.instagram.com/laboratoriodelcinghiale)  
 - [LABΔVLE – Archivio Centrale](https://github.com/LABDVLE-LAB_CINGHIALE)  
 
