@@ -21,4 +21,10 @@ Topic / script
 
 ## Stato
 
-Fase iniziale di infrastruttura e validazione.
+Base runtime Reel Factory operativa: preflight e verifica R003 superati, APPLY eseguito, nessun blocker infrastrutturale corrente. ComfyUI non è ancora collegato e la pipeline n8n R005 non è ancora implementata.
+
+## Documentazione
+
+- [Architettura R001](architecture/ARCHITECTURE_R001.md)
+- [Stato R004A](docs/STATUS_R004A.md)
+- [Decisioni architetturali](docs/DECISIONS.md)
